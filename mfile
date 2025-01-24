@@ -1,8 +1,8 @@
 {
        "package": "ProfileWindow",
        "title": "Profile Window",
-       "version": "1.0.0",
-       "author": "Kymbahl",
+       "version": "1.0.1",
+       "author": "Humera",
        "icon": "",
        "outputFile": true
 }
