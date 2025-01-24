@@ -1,0 +1,9 @@
+[
+       {
+              "name": "AddProfileWindow",
+              "isActive": "yes",
+              "regex": "^pwadd (.*)",
+              "script": "",
+              "isFolder": "no"
+       }
+]
